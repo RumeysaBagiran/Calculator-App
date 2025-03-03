@@ -6,12 +6,7 @@ Bu proje, Android için geliştirilmiş basit bir hesap makinesi uygulamasıdır
 - 📌 **Toplama, çıkarma, çarpma ve bölme işlemleri**
 - 📌 **Kullanıcı dostu arayüz**
 - 📌 **Gerçek zamanlı hesaplama**
-
-## 📂 Proje Yapısı
-- **app/src/main/java/com/example/calculator/** → Java kodları
-- **app/src/main/res/layout/** → XML UI dosyaları
-- **AndroidManifest.xml** → Uygulama konfigürasyonu
-
+- 
 ## 📌 Kullanım
 1. Android Studio’da projeyi aç.
 2. `MainActivity.java` dosyasını çalıştır.
